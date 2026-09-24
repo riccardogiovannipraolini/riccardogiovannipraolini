@@ -1,6 +1,6 @@
 ## Riccardo Praolini
 
-Product e operations, con una formazione in filosofia e narrazione. Oggi sono Product Management Intern in NOW (Sky Group), a Milano.
+Product e operations, formazione in filosofia e narrazione. Oggi sono Product Management Intern in NOW (Sky Group), a Milano.
 
 Nei progetti personali lavoro end-to-end: definisco il problema e le priorità, scrivo requisiti e criteri di accettazione, sviluppo con coding agent e itero su quello che emerge.
 
