@@ -15,6 +15,8 @@ Nei progetti personali lavoro end-to-end: definisco il problema e le priorità, 
 
 **[Budget Tracker](https://github.com/riccardogiovannipraolini/personal-budget-tracker)**: app personale che importa i movimenti bancari via Open Banking, li categorizza imparando dalle correzioni e avvisa quando una categoria si avvicina alla soglia. Node.js, TypeScript e PostgreSQL, con sincronizzazione bidirezionale su Notion.
 
+**[Prompt Optimizer](https://github.com/riccardogiovannipraolini/prompt-optimizer)**: strumento in Python che riscrive un prompt applicando una knowledge base di tecniche di prompt engineering tratte da paper e guide ufficiali. Funziona con Anthropic, OpenAI, Gemini o un modello locale.
+
 **[notion-page-tools](https://github.com/riccardogiovannipraolini/notion-page-tools)**: plugin per agenti AI che sposta pagine Notion nel cestino e le ripristina, con anteprima e conferma monouso.
 
 ### Contatti
