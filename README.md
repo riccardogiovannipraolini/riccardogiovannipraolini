@@ -1,24 +1,17 @@
 ## Riccardo Praolini
 
-Product e operations, formazione in filosofia e narrazione. Oggi Product Management Intern in NOW (Sky Group) a Milano.
+Product Management Intern at NOW (Sky Italia), Milan. Humanities background (Scuola Holden, Philosophy at the University of Turin). I like the point where an ambiguous need becomes something concrete, and I build some of my own tools.
 
-Qui qualche progetto personale.
+### Public projects
 
-### Progetti
+**[PIOS](https://github.com/riccardogiovannipraolini/pios-case-study)**: the personal operating system I designed and run in Notion, with an AI assistant, weekly sprints and reviews that correct the system itself. Current version since February 2026, evolved from earlier personal planning systems. The repository holds the case study (in Italian, with an English summary).
 
-**[Nameless](https://github.com/riccardogiovannipraolini/zonal-protostar)**: videogioco narrativo indipendente (2025–2026). Product e marketing lead di un team di sette persone: ricerca di mercato, posizionamento, definizione dell'MVP e criteri di go, pivot o archive. Ho portato l'idea a due prototipi giocabili nel browser:
+**[Budget Tracker](https://github.com/riccardogiovannipraolini/personal-budget-tracker)**: personal app that imports my bank transactions via Open Banking (PSD2), categorises them with rules that learn from my corrections and alerts me when a category nears its monthly limit. Requirements, data model and interface by me; code written with coding agents. Node.js, TypeScript, PostgreSQL, two-way Notion sync. Limits are documented in the README.
 
-- combat system: [gioca](https://combatnameless.netlify.app/) · [codice](https://github.com/riccardogiovannipraolini/zonal-protostar)
-- sequenza di apertura: [gioca](https://cnascita.netlify.app/) · [codice](https://github.com/riccardogiovannipraolini/1_camera)
+**[notion-page-tools](https://github.com/riccardogiovannipraolini/notion-page-tools)**: plugin for Hermes Agent that moves Notion pages to the trash and restores them, never deleting permanently, with a mandatory preview and a single-use token.
 
-**[PIOS](https://github.com/riccardogiovannipraolini/pios-case-study)**: sistema operativo personale in Notion (2026) che trasforma stimoli e decisioni in lavoro pianificato, con sprint settimanali e review che correggono il sistema. Nel repository c'è il case study.
+Other work (the narrative game Nameless, August 2025 – April 2026, where I was product and marketing lead in a team of seven) is not published here because it includes the work of other people.
 
-**[Budget Tracker](https://github.com/riccardogiovannipraolini/personal-budget-tracker)**: app personale che importa i movimenti bancari via Open Banking, li categorizza imparando dalle correzioni e avvisa quando una categoria si avvicina alla soglia. Node.js, TypeScript e PostgreSQL, con sincronizzazione bidirezionale su Notion.
-
-**[Prompt Optimizer](https://github.com/riccardogiovannipraolini/prompt-optimizer)**: strumento in Python che riscrive un prompt applicando una knowledge base di tecniche di prompt engineering tratte da paper e guide ufficiali. Funziona con Anthropic, OpenAI, Gemini o un modello locale.
-
-**[notion-page-tools](https://github.com/riccardogiovannipraolini/notion-page-tools)**: plugin per agenti AI che sposta pagine Notion nel cestino e le ripristina, con anteprima e conferma monouso.
-
-### Contatti
+### Contact
 
 [LinkedIn](https://www.linkedin.com/in/riccardo-praolini-0929a4306)
